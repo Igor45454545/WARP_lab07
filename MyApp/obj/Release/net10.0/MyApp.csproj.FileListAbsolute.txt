@@ -12,3 +12,4 @@ Z:\WARP\WARP_lab07\MyApp\obj\Release\net10.0\refint\MyApp.dll
 Z:\WARP\WARP_lab07\MyApp\obj\Release\net10.0\MyApp.pdb
 Z:\WARP\WARP_lab07\MyApp\obj\Release\net10.0\MyApp.genruntimeconfig.cache
 Z:\WARP\WARP_lab07\MyApp\obj\Release\net10.0\ref\MyApp.dll
+Z:\WARP\WARP_lab07\MyApp\obj\Release\net10.0\MyApp.sourcelink.json
