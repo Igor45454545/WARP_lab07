@@ -1,0 +1,14 @@
+Z:\WARP\WARP_lab07\MyApp\bin\Release\net10.0\MyApp.exe
+Z:\WARP\WARP_lab07\MyApp\bin\Release\net10.0\MyApp.deps.json
+Z:\WARP\WARP_lab07\MyApp\bin\Release\net10.0\MyApp.runtimeconfig.json
+Z:\WARP\WARP_lab07\MyApp\bin\Release\net10.0\MyApp.dll
+Z:\WARP\WARP_lab07\MyApp\bin\Release\net10.0\MyApp.pdb
+Z:\WARP\WARP_lab07\MyApp\obj\Release\net10.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\WARP\WARP_lab07\MyApp\obj\Release\net10.0\MyApp.AssemblyInfoInputs.cache
+Z:\WARP\WARP_lab07\MyApp\obj\Release\net10.0\MyApp.AssemblyInfo.cs
+Z:\WARP\WARP_lab07\MyApp\obj\Release\net10.0\MyApp.csproj.CoreCompileInputs.cache
+Z:\WARP\WARP_lab07\MyApp\obj\Release\net10.0\MyApp.dll
+Z:\WARP\WARP_lab07\MyApp\obj\Release\net10.0\refint\MyApp.dll
+Z:\WARP\WARP_lab07\MyApp\obj\Release\net10.0\MyApp.pdb
+Z:\WARP\WARP_lab07\MyApp\obj\Release\net10.0\MyApp.genruntimeconfig.cache
+Z:\WARP\WARP_lab07\MyApp\obj\Release\net10.0\ref\MyApp.dll
